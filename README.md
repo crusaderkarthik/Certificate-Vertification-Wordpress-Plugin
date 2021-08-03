@@ -1,14 +1,14 @@
 # Certificate Vertification Wordpress Plugin
-=== Certificate Verification ===
-Contributors: segwitz
-Donate link: #
-Tags: certificate,verification
-Requires at least: 4.0
-Tested up to: 4.8
-Stable tag: trunk
-Requires PHP: 5.4
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+=== Certificate Verification === <br/>
+Contributors: segwitz <br/>
+Donate link: #<br/>
+Tags: certificate,verification<br/>
+Requires at least: 4.0<br/>
+Tested up to: 4.8<br/>
+Stable tag: trunk<br/>
+Requires PHP: 5.4<br/>
+License: GPLv2 or later<br/>
+License URI: https://www.gnu.org/licenses/gpl-2.0.html<br/>
 
 <b>NOTE:</b> I am just contributing/helping to add features to this plugin. You can use this plugin for your internship students/course completion or for anything as per your wish. If you would like to have some customisations, just raise an issue/ticket, I will reply back asap.
 Admin can enter course certificate codes , and details in the panel and user can verify their certificate using the course code in the front end.
