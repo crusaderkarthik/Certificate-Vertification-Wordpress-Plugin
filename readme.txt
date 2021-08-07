@@ -9,7 +9,7 @@ Requires PHP: 5.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-<b>NOTE:</b> I am just contributing/helping to add features to this plugin. You can use this plugin for your internship students/course completion or for anything as per your wish for certificate verificate. If you would like to have some customisations, just raise an issue/ticket, I will reply back asap.
+<b>NOTE:</b> I am just contributing/helping to add features to this plugin. You can use this plugin for your internship students/course completion or for anything as per your wish to verify the certificate with Certificate ID and name and course enrollment and certificate date. If you would like to have some customisations, just raise an issue/ticket, I will reply back asap.
 Admin can enter course certificate codes , and details in the panel and user can verify their certificate using the course code in the front end.
 
 == Description ==
